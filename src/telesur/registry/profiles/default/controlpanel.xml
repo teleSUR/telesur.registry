@@ -6,7 +6,7 @@
 
     <configlet
         title="Disqus settings"
-        action_id="telesur.registry.disqusettings"
+        action_id="telesur.registry.disqus"
         appId="telesur.registry"
         category="Products"
         condition_expr=""

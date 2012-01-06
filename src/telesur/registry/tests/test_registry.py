@@ -47,7 +47,7 @@ class RegistryTest(unittest.TestCase):
     def test_entry_in_controlpanel(self):
         # there must be an entry in the control panel
         self.controlpanel = getToolByName(self.portal, 'portal_controlpanel')
-        self.assertTrue('telesur.registry.disqusettings' in [a.getAction(self)['id']
+        self.assertTrue('telesur.registry.disqus' in [a.getAction(self)['id']
                         for a in self.controlpanel.listActions()])
 
     def test_record_access_token(self):
