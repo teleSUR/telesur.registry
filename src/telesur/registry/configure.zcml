@@ -3,16 +3,27 @@
     xmlns:five="http://namespaces.zope.org/five"
     xmlns:i18n="http://namespaces.zope.org/i18n"
     xmlns:genericsetup="http://namespaces.zope.org/genericsetup"
+    xmlns:browser="http://namespaces.zope.org/browser"
+    xmlns:cmf="http://namespaces.zope.org/cmf"
     i18n_domain="telesur.registry">
 
   <five:registerPackage package="." initialize=".initialize" />
+  <include package="plone.app.registry" />
+  <include package="plone.app.z3cform" />
 
   <genericsetup:registerProfile
       name="default"
-      title="telesur.registry"
+      title="TeleSUR, central registry"
       directory="profiles/default"
       description="Installs the telesur.registry package"
       provides="Products.GenericSetup.interfaces.EXTENSION"
       />
+
+  <browser:page
+    name="telesur-disqus-controlpanel"
+    for="Products.CMFPlone.interfaces.IPloneSiteRoot"
+    permission="cmf.ManagePortal"
+    class=".controlpanel.DisqusControlPanelView"
+    />
 
 </configure>

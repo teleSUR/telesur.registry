@@ -13,12 +13,9 @@ Características
 - Contiene un registro de configuraciones, a continuación se describen cada uno:
 
   - ``Discqus``, en esta sección se agrupan los registros que son utilizados por los productos que hacen uso del api del `sitio Web de Disqus`_. Los registros que contiene esta sección son:
-    - registry.telesur.disqus.access_token
-    - registry.telesur.disqus.app_public_key
-    - registry.telesur.disqus.app_secret_key
-    - registry.telesur.disqus.max_results
-    - registry.telesur.disqus.interval
-    - registry.telesur.disqus.forum
+    - access token
+    - app public key
+    - app secret key
 
 Instalación
 ===========
