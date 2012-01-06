@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2012-01-06 19:26+0000\n"
+"POT-Creation-Date: 2012-01-06 20:05+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -27,6 +27,10 @@ msgstr ""
 
 #: ./interfaces.py:20
 msgid "Application public key"
+msgstr ""
+
+#: ./interfaces.py:26
+msgid "Application secret key"
 msgstr ""
 
 #: ./profiles/default/controlpanel.xml

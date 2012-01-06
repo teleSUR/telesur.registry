@@ -23,7 +23,7 @@ class IDisqusSettings(Interface):
         )
 
     app_secret_key = schema.TextLine(
-        title = u'Application secret key',
+        title = _(u'Application secret key'),
         description = _(u'secret key'),
         required = True,
         )
