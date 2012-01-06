@@ -1,0 +1,25 @@
+# telesur.registry manual manteined pot file.
+# Juan A. Diaz <juan@linux.org.ar>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"POT-Creation-Date: 2012-01-06 19:17+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
+"Last-Translator: Juan A. Diaz <juan@linux.org.ar>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"Language-Code: en\n"
+"Language-Name: English\n"
+"Preferred-Encodings: utf-8 latin1\n"
+"Domain: telesur.registry\n"
+
+#: ./configure.zcml:18
+msgid "TeleSUR central registry"
+msgstr ""
+
+#: ./configure.zcml:20
+msgid "Installs the telesur.registry package"
+msgstr ""

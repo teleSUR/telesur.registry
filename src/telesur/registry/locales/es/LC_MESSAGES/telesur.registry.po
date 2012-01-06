@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"POT-Creation-Date: 2012-01-06 19:26+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
+"Last-Translator: Juan A. Diaz<juan@linux.org.ar>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"Preferred-Encodings: utf-8 latin1\n"
+
+#: ./interfaces.py:14
+msgid "Access Token"
+msgstr "Token de Acceso"
+
+#: ./interfaces.py:15
+msgid "Access token to retrive information from the disqus forum."
+msgstr "Token de acceso para obtener información del foro de disqus"
+
+#: ./interfaces.py:20
+msgid "Application public key"
+msgstr "Clave publica de la aplicación"
+
+#: ./profiles/default/controlpanel.xml
+msgid "Disqus settings"
+msgstr "Configuración de Disqus"
+
+#. Default: "Instalar el complemento telesur.registry"
+#: ./configure.zcml:20
+msgid "Installs the telesur.registry package"
+msgstr "Instalar el complemento telesur.registry"
+
+#. Default: "TeleSUR, Registro central de configuraciones"
+#: ./configure.zcml:18
+msgid "TeleSUR central registry"
+msgstr "TeleSUR, registro central de configuraciones"
+
+#: ./interfaces.py:21
+msgid "public key"
+msgstr "clave publica"
+
+#: ./interfaces.py:27
+msgid "secret key"
+msgstr "clave secreta"
+

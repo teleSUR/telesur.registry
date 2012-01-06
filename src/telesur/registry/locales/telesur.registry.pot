@@ -1,0 +1,51 @@
+# --- PLEASE EDIT THE LINES BELOW CORRECTLY ---
+# SOME DESCRIPTIVE TITLE.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2012-01-06 19:26+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"Language-Code: en\n"
+"Language-Name: English\n"
+"Preferred-Encodings: utf-8 latin1\n"
+"Domain: telesur.registry\n"
+
+#: ./interfaces.py:14
+msgid "Access Token"
+msgstr ""
+
+#: ./interfaces.py:15
+msgid "Access token to retrive information from the disqus forum."
+msgstr ""
+
+#: ./interfaces.py:20
+msgid "Application public key"
+msgstr ""
+
+#: ./profiles/default/controlpanel.xml
+msgid "Disqus settings"
+msgstr ""
+
+#: ./configure.zcml:20
+msgid "Installs the telesur.registry package"
+msgstr ""
+
+#: ./configure.zcml:18
+msgid "TeleSUR central registry"
+msgstr ""
+
+#: ./interfaces.py:21
+msgid "public key"
+msgstr ""
+
+#: ./interfaces.py:27
+msgid "secret key"
+msgstr ""
+
