@@ -11,7 +11,7 @@
         category="Products"
         condition_expr=""
         url_expr="string:${portal_url}/@@telesur-disqus-controlpanel"
-        icon_expr="string:${portal_url}/++resource++telesur.registry/disqus-icon.png"
+        icon_expr="string:${portal_url}/++resource++telesur.registry.images/disqus-icon.png"
         visible="True"
         i18n:attributes="title">
             <permission>Manage portal</permission>

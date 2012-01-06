@@ -1,0 +1,12 @@
+<configure
+    xmlns="http://namespaces.zope.org/zope"
+    xmlns:browser="http://namespaces.zope.org/browser"
+    i18n_domain="telesur.registry">
+
+  <!-- Resource directory for images -->
+  <browser:resourceDirectory
+    name="telesur.registry.images"
+    directory="images"
+    />
+
+</configure>

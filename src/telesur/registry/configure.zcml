@@ -11,13 +11,15 @@
   <include package="plone.app.registry" />
   <include package="plone.app.z3cform" />
 
+  <include package=".browser"/>
+
   <genericsetup:registerProfile
-      name="default"
-      title="TeleSUR, central registry"
-      directory="profiles/default"
-      description="Installs the telesur.registry package"
-      provides="Products.GenericSetup.interfaces.EXTENSION"
-      />
+    name="default"
+    title="TeleSUR central registry"
+    directory="profiles/default"
+    description="Installs the telesur.registry package"
+    provides="Products.GenericSetup.interfaces.EXTENSION"
+    />
 
   <browser:page
     name="telesur-disqus-controlpanel"
