@@ -15,8 +15,8 @@ msgid "Access Token"
 msgstr "Token de Acceso"
 
 #: ./interfaces.py:15
-msgid "Access token to retrive information from the disqus forum."
-msgstr "Token de acceso para obtener información del foro de disqus"
+msgid "Access token to retrive information from the Disqus forum."
+msgstr "Token de acceso para obtener información del foro de Disqus"
 
 #: ./interfaces.py:20
 msgid "Application public key"

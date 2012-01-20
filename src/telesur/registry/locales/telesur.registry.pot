@@ -22,7 +22,7 @@ msgid "Access Token"
 msgstr ""
 
 #: ./interfaces.py:15
-msgid "Access token to retrive information from the disqus forum."
+msgid "Access token to retrive information from the Disqus forum."
 msgstr ""
 
 #: ./interfaces.py:20

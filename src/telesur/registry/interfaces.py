@@ -8,12 +8,12 @@ from telesur.registry import _
 
 
 class IDisqusSettings(Interface):
-    """ Disqus settings. Credentials for access to the disqus api.
+    """ Disqus settings. Credentials for access to the Disqus api.
         Obtainable via plone.registry.
     """
     access_token = schema.TextLine(
         title=_(u'Access Token'),
-        description=_(u'Access token to retrive information from the disqus forum.'),
+        description=_(u'Access token to retrive information from the Disqus forum.'),
         required=True,
         )
 
