@@ -47,7 +47,7 @@ Colaboraciones impresionantes
 
 * Héctor Velarde aka hvelarde
 
-Par una lista actualizada de todo los colaboradores visite: https://github.com/desarrollotv/telesur.registry/contributors
+Para una lista actualizada de todo los colaboradores visite: https://github.com/desarrollotv/telesur.registry/contributors
 
 .. _sitio Web de teleSUR: http://telesurtv.net/
 .. _Plone: http://plone.org/
