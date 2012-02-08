@@ -34,6 +34,21 @@ Descargas
 Usted puede encontrar la versión de desarrollo del paquete
 ``telesur.registry`` en el `repositorio desarrollotv`_ en Github.com.
 
+
+Autor(es) Original(es)
+======================
+
+* Juan A. Diaz aka nueces
+
+* Franco Pellegrini aka frapell
+
+Colaboraciones impresionantes
+=============================
+
+* Héctor Velarde aka hvelarde
+
+Par una lista actualizada de todo los colaboradores visite: https://github.com/desarrollotv/telesur.registry/contributors
+
 .. _sitio Web de teleSUR: http://telesurtv.net/
 .. _Plone: http://plone.org/
 .. _repositorio desarrollotv: https://github.com/desarrollotv/telesur.registry
