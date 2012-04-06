@@ -10,14 +10,18 @@ setup(name='telesur.registry',
       description="Registro unificado para configuraciones del sitio de teleSUR",
       long_description=open("README.rst").read() + "\n" +
                        open(os.path.join("docs", "HISTORY.txt")).read(),
-      # Get more strings from
-      # http://pypi.python.org/pypi?:action=list_classifiers
       classifiers=[
-        "Development Status :: 4 - Beta",
+        "Development Status :: 5 - Production/Stable",
+        "Environment :: Web Environment",
+        "Framework :: Plone",
         "Framework :: Plone :: 4.1",
+        "Intended Audience :: System Administrators",
         "License :: OSI Approved :: GNU General Public License (GPL)",
         "Operating System :: OS Independent",
         "Programming Language :: Python",
+        "Programming Language :: Python :: 2.6",
+        "Topic :: Office/Business :: News/Diary",
+        "Topic :: Software Development :: Libraries :: Python Modules",
         ],
       keywords='plone registry teleSUR',
       author='Juan A. Diaz [nueces]',
