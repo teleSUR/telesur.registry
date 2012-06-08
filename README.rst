@@ -32,7 +32,7 @@ Descargas
 =========
 
 Usted puede encontrar la versión de desarrollo del paquete
-``telesur.registry`` en el `repositorio desarrollotv`_ en Github.com.
+``telesur.registry`` en el `repositorio teleSUR`_ en Github.com.
 
 
 Autor(es) Original(es)
@@ -47,9 +47,9 @@ Colaboraciones impresionantes
 
 * Héctor Velarde aka hvelarde
 
-Para una lista actualizada de todo los colaboradores visite: https://github.com/desarrollotv/telesur.registry/contributors
+Para una lista actualizada de todo los colaboradores visite: https://github.com/teleSUR/telesur.registry/contributors
 
 .. _sitio Web de teleSUR: http://telesurtv.net/
 .. _Plone: http://plone.org/
-.. _repositorio desarrollotv: https://github.com/desarrollotv/telesur.registry
+.. _repositorio teleSUR: https://github.com/teleSUR/telesur.registry
 .. _sitio Web de Disqus: http://www.disqus.com/
